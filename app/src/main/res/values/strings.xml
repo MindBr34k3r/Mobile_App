@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Stocks</string>
+    <string name="stocks">Stocks</string>
+    <string name="settings">Settings</string>
+    <string name="forex">Forex</string>
+    <string name="styleSettings">Style</string>
+    <string name="info">Info</string>
+    <string name="stocksSearch">Search</string>
+    <string name="stocksDetail">StocksDetail</string>
+</resources>
